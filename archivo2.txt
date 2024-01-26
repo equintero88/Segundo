@@ -1,1 +1,3 @@
 Segunda edicion del segundo archivo
+En visual studio Code puedo editar también archivos de texto
+¡Wow! Esto es genial
